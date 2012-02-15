@@ -3,7 +3,9 @@ Reverse Album Opener
 Usage: rev_add_album.sh [directory]
 
 Open all music files in a dir in reverse alphabetical order.
-This allows you to add an album to your music library and then 
-  listen to it in order if your playlist is sorted newest on top.
+If filenames begin with the track number, albums opened
+  with this tool will be ordered in your music library so you 
+  may listen to the album in order if your playlist is sorted 
+  newest on top.
 
 Only tested on Mac OSX Lion with iTunes so far.
